@@ -23,7 +23,7 @@ function buildMetadata(sample) {
     var filtered2 = filtered[0]
     
     Object.entries(filtered2).forEach(([key,value]) => {
-      sample_metadata_panel.append("h5").text(`${key}: ${value}`)
+      sample_metadata_panel.append("html").text(`${key.toUpperCase()}: ${value}`)
     })
     }
 
