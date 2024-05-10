@@ -1,6 +1,6 @@
 # BiodiversityJavaScriptCharts
 
-A website that utilizes JSON data regarding belly button biodiversity is created. This webstite contains a few different sections:
+A website that utilizes JSON data regarding belly button biodiversity is created. This website contains a few different sections:
 
 
 ## 1. Drop-down Menu 
